@@ -1,0 +1,1 @@
+rtl_power -f 118M:137M:8k -g 50 -i 10 -e 20m airband_`date +%d%B%Y_%H%M`.csv
